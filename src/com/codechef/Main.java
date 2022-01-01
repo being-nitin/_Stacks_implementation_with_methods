@@ -24,5 +24,8 @@ public class Main {
          */
         System.out.println(stack.pop());
         System.out.println(stack);
+        /*
+        so these are the three methods used in stack
+         */
     }
 }
