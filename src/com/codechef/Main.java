@@ -19,6 +19,9 @@ public class Main {
         that is the third element
          */
         System.out.println(stack.peek());
+        /*
+        pop() method will remove the peek element from the stack.
+         */
         System.out.println(stack.pop());
         System.out.println(stack);
     }
