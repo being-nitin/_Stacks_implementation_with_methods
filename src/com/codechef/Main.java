@@ -19,6 +19,7 @@ public class Main {
         that is the third element
          */
         System.out.println(stack.peek());
-
+        System.out.println(stack.pop());
+        System.out.println(stack);
     }
 }
