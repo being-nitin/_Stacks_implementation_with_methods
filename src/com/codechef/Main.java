@@ -15,6 +15,9 @@ public class Main {
             stack.push(sc.nextInt());
         }
         System.out.println(stack);
+        /* with peak method it will return the peek element in the stack that is the last element
+        that is the third element
+         */
         System.out.println(stack.peek());
 
     }
